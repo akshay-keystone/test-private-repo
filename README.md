@@ -5,4 +5,4 @@ test-private-repo - test-line-3
 test-private-repo - test-line-4
 test-private-repo - test-line-5
 test-private-repo - test-line-6
-
+test-line-7
